@@ -1,0 +1,5 @@
+Hello, my friend!
+How are you?
+***
+Goodbye, my friend!
+Good day!
